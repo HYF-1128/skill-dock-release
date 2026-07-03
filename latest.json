@@ -1,7 +1,7 @@
-﻿{
-    "version":  "0.1.0",
+{
+    "version":  "0.1.1",
     "releaseDate":  "2026-07-02",
-    "installerUrl":  "https://github.com/HYF-1128/skill-dock-release/releases/download/v0.1.0/Skill.Dock-0.1.0-Setup.exe",
-    "sha256":  "ffdd793e5d0bf8fe092261ef4af00f4874d66a197351baba7bf508bf1c55f7a4",
-    "notes":  "Skill Dock initial internal release."
+    "installerUrl":  "https://github.com/HYF-1128/skill-dock-release/releases/download/v0.1.1/Skill%20Dock-0.1.1-Setup.exe",
+    "sha256":  "76017be57d9da22160b50c290c09affeeb4d5dfc27b190391e89b1191f3ddb53",
+    "notes":  "Skill Dock 0.1.1 update."
 }
