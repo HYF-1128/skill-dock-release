@@ -1,0 +1,18 @@
+﻿{
+    "schemaVersion":  1,
+    "channel":  "stable",
+    "releaseId":  "hot-0.1.3",
+    "minAppVersion":  "0.1.3",
+    "notes":  "Skill Dock hot update 0.1.3.",
+    "renderer":  {
+                     "version":  "0.1.3",
+                     "url":  "https://github.com/HYF-1128/skill-dock-release/releases/download/hot-0.1.3/skill-dock-renderer-0.1.3.zip",
+                     "sha256":  "128519fdad900daa887f39d8ea43d8eb210e8ef7d1606f1f0053f13c1eacda31",
+                     "preloadApiVersion":  1
+                 },
+    "assistants":  {
+                       "version":  "0.1.3",
+                       "url":  "https://github.com/HYF-1128/skill-dock-release/releases/download/hot-0.1.3/skill-dock-assistants-0.1.3.zip",
+                       "sha256":  "8eb27bf7be0e1d4ddfbc3c1bdd5619cd07b67aeede8ac0f4040841f8693fc766"
+                   }
+}
