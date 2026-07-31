@@ -1,7 +1,7 @@
 {
-    "version":  "0.1.3",
-    "releaseDate":  "2026-07-06",
-    "installerUrl":  "https://github.com/HYF-1128/skill-dock-release/releases/download/v0.1.3/Skill.Dock-0.1.3-Setup.exe",
-    "sha256":  "01fb78383e84df9661fda5e2de769c4862720f5cef2e9be54101ceb3f01312db",
-    "notes":  "Skill Dock 0.1.3 simplifies update controls and adds update attention badges."
+    "version":  "0.1.4",
+    "releaseDate":  "2026-07-31",
+    "installerUrl":  "https://github.com/HYF-1128/skill-dock-release/releases/download/v0.1.4/Skill.Dock-0.1.4-Setup.exe",
+    "sha256":  "ec6c0e9d920edb51cd033c1a302bf811875b21a45dce99091a5788affb620ec9",
+    "notes":  "Skill Dock 0.1.4 release."
 }
