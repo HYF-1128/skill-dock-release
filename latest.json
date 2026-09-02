@@ -1,7 +1,7 @@
 {
-    "version":  "0.1.7",
-    "releaseDate":  "2026-08-28",
-    "installerUrl":  "https://github.com/HYF-1128/skill-dock-release/releases/download/v0.1.7/Skill.Dock-0.1.7-Setup.exe",
-    "sha256":  "c4784e505ee5cc7067cb97e00440f0ff5d8b075f7f07e854dc73d470add5158f",
-    "notes":  "Skill Dock 0.1.7 fixes dock icon click reliability, simplifies custom Skill path UI, and includes settings stability updates."
+    "version":  "0.1.8",
+    "releaseDate":  "2026-09-02",
+    "installerUrl":  "https://github.com/HYF-1128/skill-dock-release/releases/download/v0.1.8/Skill.Dock-0.1.8-Setup.exe",
+    "sha256":  "09eebaac375da0929e664f6616a9c23ec378630d2924defe77b47eb128729e1c",
+    "notes":  "Skill Dock 0.1.8 includes the latest stability fixes and UI updates."
 }

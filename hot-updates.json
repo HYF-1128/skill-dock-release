@@ -1,13 +1,13 @@
 {
     "schemaVersion":  1,
     "channel":  "stable",
-    "releaseId":  "hot-2026.08.28.1",
-    "minAppVersion":  "0.1.7",
-    "notes":  "Skill Dock UI hot update 2026.08.28.1.",
+    "releaseId":  "hot-2026.09.02.1",
+    "minAppVersion":  "0.1.8",
+    "notes":  "Skill Dock UI hot update 2026.09.02.1.",
     "renderer":  {
-                     "version":  "2026.08.28.1",
-                     "url":  "https://github.com/HYF-1128/skill-dock-release/releases/download/hot-2026.08.28.1/skill-dock-renderer-hot-2026.08.28.1.zip",
-                     "sha256":  "e0d081edc204b318009b0ba3aeae0c817cc06d5eab6fa11cd2792e25718fbbce",
+                     "version":  "2026.09.02.1",
+                     "url":  "https://github.com/HYF-1128/skill-dock-release/releases/download/hot-2026.09.02.1/skill-dock-renderer-hot-2026.09.02.1.zip",
+                     "sha256":  "eaf794efcb9e2fb63ca8502bcfbb847526d2055bdb453fea26197273aa88932a",
                      "preloadApiVersion":  1
                  }
 }
